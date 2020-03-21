@@ -253,6 +253,7 @@ IP-CIDR,198.11.193.182/31,no-resolve
 IP-CIDR,198.11.251.32/27,no-resolve
 IP-CIDR,198.23.80.0/27,no-resolve
 IP-CIDR,208.43.115.192/27,no-resolve
+
 ##Line
 DOMAIN-SUFFIX,scdn.co,force-remote-dns
 DOMAIN-SUFFIX,line.naver.jp,force-remote-dns
